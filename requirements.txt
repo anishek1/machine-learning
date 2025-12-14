@@ -3,3 +3,8 @@ numpy
 pandas
 matplotlib
 seaborn
+flask
+memory_profiler
+scikit-learn
+bs4
+flask
