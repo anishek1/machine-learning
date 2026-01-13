@@ -1,11 +1,23 @@
 ipykernel
-numpy
-pandas
-matplotlib
-seaborn
-flask
-memory_profiler
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Plotly
+SciPy
 scikit-learn
+ydata-profiling
+Sweetviz
+Great Expectations
+re
+NLTK
+spaCy
+datetime
+dateutil
+Category Encoders
+Feature-engine
+PySpark
+Flask
+Streamlit
+memory_profiler
 bs4
-flask
-streamlit
