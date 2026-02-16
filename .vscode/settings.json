@@ -1,5 +1,5 @@
 {
     "gitdoc.enabled": true,
-    "brocommits.llmModel": "codellama",
+    "brocommits.llmModel": "tinyllama",
     "brocommits.heuristicsOnly": false
 }
